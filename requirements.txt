@@ -8,3 +8,4 @@ opencv-python
 matplotlib
 scikit-learn
 plotly
+cv2
