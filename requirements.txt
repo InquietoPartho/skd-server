@@ -2,10 +2,8 @@ streamlit
 torch
 torchvision
 numpy
-joblib
-Pillow
-opencv-python
-matplotlib
-scikit-learn
+pillow
 plotly
-cv2
+matplotlib
+joblib
+opencv-python-headless
